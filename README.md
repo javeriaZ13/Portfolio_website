@@ -1,2 +1,2 @@
 # Portfolio_website
-A simple portfolio website created using Python's Flask as well as HTML and CSS.
+A simple portfolio website created using HTML and CSS for frontend and Python's Flask for backend. The website has a simple, yet classic design that shows home section, an "about" section that shows a concise introduction of the person, a "projects" section that displays some recent projects and their videos are also added for the visitor to see, and lastly the "contact" section where links to some social media profiles of the person whose has the portfolio website are shown to the visitor to be able to connect with them.
